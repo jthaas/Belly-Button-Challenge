@@ -5,8 +5,10 @@ Repo contains the following:
 
 1. Data folder - samples.json file
 2. Images folder - Expected outputs PNG's
-3. StarterCoder folder - includes static folder with the app.js (main file) located within the js subfolder , the index.html , and another samples.json file
-4. README.md
+3. Static folder with the app.js (main file) 
+4. index.html 
+5. samples.json 
+6. README.md
 
 
 
